@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/KUN-INT/static/css/main.016ea357.css",
+    "main.js": "/KUN-INT/static/js/main.cf157340.js",
+    "static/media/remixicon.svg?t=1705244689813": "/KUN-INT/static/media/remixicon.426742b01cbcdd986634.svg",
+    "static/media/light-hero-bg.jpg": "/KUN-INT/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
+    "static/media/iram.png": "/KUN-INT/static/media/iram.1167009041a43354b7f4.png",
+    "static/media/malak.png": "/KUN-INT/static/media/malak.0b9ea8963599776a4402.png",
+    "static/media/remixicon.eot?t=1705244689813": "/KUN-INT/static/media/remixicon.ff1ec9ee899cf84e3449.eot",
+    "static/media/remixicon.ttf?t=1705244689813": "/KUN-INT/static/media/remixicon.f1ed85ba47411bc8629e.ttf",
+    "static/media/Cooper.png": "/KUN-INT/static/media/Cooper.12deffc58360a0ddf8eb.png",
+    "static/media/ava-1.jpg": "/KUN-INT/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/KUN-INT/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/hero-dark-img.png": "/KUN-INT/static/media/hero-dark-img.1b5fdb08533a97516b50.png",
+    "static/media/ava-2.jpg": "/KUN-INT/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/remixicon.woff?t=1705244689813": "/KUN-INT/static/media/remixicon.85d5afadad2b2c04b2fb.woff",
+    "static/media/mishal.png": "/KUN-INT/static/media/mishal.87933106d107330bf51f.png",
+    "static/media/remixicon.woff2?t=1705244689813": "/KUN-INT/static/media/remixicon.7124d0d7809bef5b73ab.woff2",
+    "static/media/video.png": "/KUN-INT/static/media/video.738b5aed181ea69d0960.png",
+    "static/media/article.png": "/KUN-INT/static/media/article.1a0e78634738b71d43ca.png",
+    "static/media/case-study.png": "/KUN-INT/static/media/case-study.e2b9562a6c09692e288e.png",
+    "static/media/about.jpg": "/KUN-INT/static/media/about.bfa780c2a463c95ff20f.jpg",
+    "static/media/slick.svg": "/KUN-INT/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KUN-INT/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KUN-INT/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/KUN-INT/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/KUN-INT/index.html",
+    "main.016ea357.css.map": "/KUN-INT/static/css/main.016ea357.css.map",
+    "main.cf157340.js.map": "/KUN-INT/static/js/main.cf157340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016ea357.css",
+    "static/js/main.cf157340.js"
+  ]
+}
